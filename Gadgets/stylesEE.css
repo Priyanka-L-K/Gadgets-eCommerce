@@ -177,7 +177,7 @@ button {
     color: white;
 }
 #search_text:focus {
-    background: rgb(64, 151, 119);
+    background: rgb(189, 190, 198);
     width: 75%;
 }
 #search_button {
